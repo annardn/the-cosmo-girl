@@ -3,6 +3,8 @@ myst_enable_extensions = ["colon_fence"]
 
 templates_path = ["_templates"]
 
+html_title = "Cosmo Girl"
+
 html_theme = "pydata_sphinx_theme"
 
 html_theme_options = {
@@ -11,14 +13,14 @@ html_theme_options = {
     "navbar_end": ["navbar-icon-links"],
 
     "logo": {
-        "text": "Title",
-        "image_light": "_images/example.png"
+        "text": "Cosmo Girl",
+        "image_light": "_images/icon.png"
     },
     
     "icon_links": [
         {
             "name": "GitHub",
-            "url": "https://github.com/HammyPig/website-template",
+            "url": "https://github.com/annardn",
             "icon": "fa-brands fa-github"
         },
     ],
@@ -32,7 +34,7 @@ html_theme_options = {
 
 html_context = {
    "default_mode": "light",
-   "footer_text": "Made with love by James."
+   "footer_text": "Made by Anna ˚ʚ♡ɞ˚"
 }
 
 sd_custom_directives = {
