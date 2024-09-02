@@ -1,21 +1,26 @@
+---
+sd_hide_title: true
+html_theme.sidebar_secondary.remove: true
+---
+
 # Home Page Title
 
-Hello, World! Welcome to the home page template.
+Hello, World! Welcome to The Cosmo Girl.
 
 ## Links
 
 ::::{card-grid}
 
-:::{grid-item-card} Example Standalone Page
-:link: general/example-page
+:::{grid-item-card} Thoughts on Oppenheimer
+:link: general/oppenheimer-review
 
-This is a link to the included example standalone page. Use this as a template for creating new standalone pages.
+My review of the 2023 film Oppenheimer.
 :::
 
-:::{grid-item-card} Example Section
-:link: example-section/example-page1
+:::{grid-item-card} Stellar Evolution
+:link: general/stellar-evolution/stellar-evolution
 
-This is a link to the included example section. Use this as a template for creating new sections.
+I explain how a star evolves from birth to death.
 :::
 
 ::::
