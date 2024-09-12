@@ -15,12 +15,18 @@ Hello, World! Welcome to The Cosmo Girl.
 :link: general/oppenheimer-review
 
 My review of the 2023 film Oppenheimer.
-:::
+::: 
 
 :::{grid-item-card} Stellar Evolution
 :link: general/stellar-evolution/stellar-evolution
 
 I explain how a star evolves from birth to death.
+:::
+
+:::{grid-item-card} Finding Fulfillment
+:link: general/fulfillment/finding_fulfillment
+
+A little diary entry of my journey finding a job I actually like.
 :::
 
 ::::
