@@ -14,7 +14,7 @@ html_theme_options = {
 
     "logo": {
         "text": "Cosmo Girl",
-        "image_light": "_images/icon.png"
+        "image_light": "_images/logo.png"
     },
     
     "icon_links": [
