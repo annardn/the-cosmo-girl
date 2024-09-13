@@ -1,5 +1,7 @@
 # Finding Fulfillment
 
+![drawing of anna leaning against earth putting thumbs up](fulfillment-img.png)
+
 This year or maybe these last 2 years or so, I have been grappling with the question; "what am I going to do with my life? ". This terrifying question, I'm sure, is in the minds of most 20 something year olds who are feeling lost or demotivated. I created this document to reflect on my thoughts from the past few years, what I believe is important to me, resources I have consumed to help me, and what I plan on doing in the near future.
 
 I will mainly comment on finding "meaning" and "fulfillment", how important money is to me, and what kind of work I want to do.
@@ -26,7 +28,7 @@ Lets take a look at the statistics. I was a graduate with a major in physics and
 
 So how many jobs did I apply to? Below is a graph summarising the number of jobs I applied to and how many responded back. This was over a 4 month period, with my first application being on 11th of December 2022.
 
-![num of jobs applies](jobs_applied.png)
+![num of jobs applies](jobs-applied.png)
 
 Alright, so around 80% of jobs dd not bother replying to me. This was usually accompanied by an email from seek stating that my application is likely not to progress. Then, after 4 months of continuous applications, I get two offers, one was a casual job that would transition into full time and the other was a full time position. For the sake of security, I chose the latter.
 

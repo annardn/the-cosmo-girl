@@ -24,7 +24,7 @@ I explain how a star evolves from birth to death.
 :::
 
 :::{grid-item-card} Finding Fulfillment
-:link: general/fulfillment/finding_fulfillment
+:link: general/fulfillment/finding-fulfillment
 
 A little diary entry of my journey finding a job I actually like.
 :::
